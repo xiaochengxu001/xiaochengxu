@@ -1,0 +1,449 @@
+[
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "晚餐特惠",
+        "id": 1005000,
+        "type": 0,
+        "subCateList": [
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 1005000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/577_1028410.jpg",
+                "name": "秋冬好物",
+                "id": 109243003,
+                "frontDesc": "温暖秋冬",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "秋冬好物"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1005000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/577_1048506.jpg",
+                "name": "主题床品",
+                "id": 109243004,
+                "frontDesc": "设计点亮，品质当道",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "设计点亮，品质当道"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 3,
+                "superCategoryId": 1005000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/577_1048509.jpg",
+                "name": "北欧原木",
+                "id": 109252033,
+                "frontDesc": "经典北欧风，打造原木家",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "经典北欧风，打造原木家"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 4,
+                "superCategoryId": 1005000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/577_1028409.jpg",
+                "name": "餐厨系列",
+                "id": 109261015,
+                "frontDesc": "颜值即正义",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "颜值即正义"
+            }
+           ]
+    },
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "尖叫一二三",
+        "id": 1010000,
+        "type": 0,
+        "subCateList": [
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 1010000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/531_827416.jpg",
+                "name": "秋季新品",
+                "id": 109257004,
+                "frontDesc": "早秋时尚 抢先预览",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "早秋时尚 抢先预览"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 3,
+                "superCategoryId": 1010000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/575_1019441.jpg",
+                "name": "热卖爆款",
+                "id": 109243011,
+                "frontDesc": "人气热销好物",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "人气热销好物"
+            }
+          
+        ]
+    },
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "双11特惠",
+        "id": 1005002,
+        "type": 0,
+        "subCateList": [
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 1005002,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/570_995275.jpg",
+                "name": "双11定金购",
+                "id": 109253006,
+                "frontDesc": "双11定金提前购，最高99元抵310元",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "双11定金提前购，最高99元抵310元"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1005002,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/570_995273.jpg",
+                "name": "新品首发",
+                "id": 109253007,
+                "frontDesc": "为你寻遍世间美味，让你品尝第一口好物",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "为你寻遍世间美味，让你品尝第一口好物"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 3,
+                "superCategoryId": 1005002,
+                "level": "L2",
+                "wapBannerUrl": "http://yanxuan.nosdn.127.net/b51b82b8b0047d3ff54aed5da313cb1e.png",
+                "name": "好味精选",
+                "id": 109253008,
+                "frontDesc": "网易零食柜里的TOP断货王",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "网易零食柜里的TOP断货王"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 4,
+                "superCategoryId": 1005002,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/570_995274.jpg",
+                "bannerUrl": "",
+                "name": "饼干糕点",
+                "id": 1008015,
+                "frontDesc": "无人工添加香精、防腐剂",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "四季糕点，用心烘焙"
+            }         
+        ]
+    },
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "一人食",
+        "id": 1013001,
+        "type": 0,
+        "subCateList": [
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 1013001,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/3_388.jpg",
+                "name": "爆款榜单",
+                "id": 109256007,
+                "frontDesc": "精选口碑尖货",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "精选口碑尖货"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1013001,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/477_596220.jpg",
+                "name": "面部护理",
+                "id": 1020001,
+                "frontDesc": "温和无刺激的呵护",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "温和无刺激的呵护"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 3,
+                "superCategoryId": 1013001,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/568_983496.jpg",
+                "name": "新品尝鲜",
+                "id": 109256008,
+                "frontDesc": "新品速递，等你来试",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "新品速递，等你来试"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 4,
+                "superCategoryId": 1013001,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/546_884381.jpg",
+                "name": "基础护肤",
+                "id": 109256010,
+                "frontDesc": "高效补水，深层修护",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "高效补水，深层修护"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 5,
+                "superCategoryId": 1013001,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/546_884379.jpg",
+                "name": "卸妆洁面",
+                "id": 109256009,
+                "frontDesc": "温和配方，养卸一体",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "温和配方，养卸一体"
+            }
+            
+        ]
+    },
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "人气小食",
+        "id": 1011000,
+        "type": 0,
+        "subCateList": [
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 1011000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/568_982894.jpg",
+                "name": "11.11爆品清单",
+                "id": 109259002,
+                "frontDesc": "婴童爆品盘点",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "婴童爆品盘点"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1011000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/435_486190.jpg",
+                "name": "今日特价",
+                "id": 109255006,
+                "frontDesc": "聪明爸妈这么买",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "聪明爸妈这么买"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1011000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/549_897020.jpg",
+                "name": "秋日出游",
+                "id": 109255007,
+                "frontDesc": "秋高气爽 放心出行",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "秋高气爽 放心出行"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1011000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/288_223082.jpg",
+                "name": "五折封顶",
+                "id": 109255008,
+                "frontDesc": "夏日抄底特惠专区",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "夏日抄底特惠专区"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 3,
+                "superCategoryId": 1011000,
+                "level": "L2",
+                "wapBannerUrl": "https://res.4008123123.com/phhs_ios/res/img/common/logo.png",
+                "name": "秋冬热卖",
+                "id": 1037005,
+                "frontDesc": "服配居家 等你来挑",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "服配居家 等你来挑"
+            }
+        ]
+    },
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "茶饮咖啡",
+        "id": 109243029,
+        "type": 0,
+        "subCateList": [
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 109243029,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/577_1028410.jpg",
+                "name": "Yessing",
+                "id": 109256006,
+                "frontDesc": "穿出你的个性态度",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "穿出你的个性态度"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 109243029,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/570_995274.jpg",
+                "name": "男式运动",
+                "id": 1020010,
+                "frontDesc": "细节讲究 合身剪裁不束缚",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "细节讲究 合身剪裁不束缚"
+            }
+        ]
+    },
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "经典比萨",
+        "id": 1043000,
+        "type": 0,
+        "subCateList": [
+            {
+                "categoryType": 0,
+                "showIndex": 1,
+                "superCategoryId": 1043000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/477_596220.jpg",
+                "name": "秋冬热销",
+                "id": 109255020,
+                "frontDesc": "保暖恒温/空气调节/热敷个护",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "保暖恒温/空气调节/热敷个护"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1043000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/568_982894.jpg",
+                "name": "甄选爆款",
+                "id": 109255019,
+                "frontDesc": "严选用户高好评爆款",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "严选用户高好评爆款"
+            }
+               
+        ]
+    },
+    {
+        "categoryType": 0,
+        "showIndex": 0,
+        "superCategoryId": 0,
+        "bannerUrl": "",
+        "name": "牛排",
+        "id": 1019000,
+        "type": 0,
+        "subCateList": [
+            {
+                "showIndex": 1,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/568_982894.jpg",
+                
+                "frontDesc": "中秋送礼 全球甄选",
+                "type": 0,
+                "frontName": "中秋送礼 全球甄选",
+                "categoryType": 0,
+                "superCategoryId": 1019000,
+                "name": "中秋全球礼",
+               
+                "id": 109268001,
+                "subCateList": []
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 2,
+                "superCategoryId": 1019000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/288_223082.jpg",
+                "name": "当季星品",
+                "id": 109254027,
+                "frontDesc": "秋冬暖心 全球好物",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "秋冬暖心 全球好物"
+            },
+            {
+                "categoryType": 0,
+                "showIndex": 3,
+                "superCategoryId": 1019000,
+                "level": "L2",
+                "wapBannerUrl": "https://img.4008123123.com/resource/VersionP/phdi/577_1048509.jpg",
+                "name": "好评推荐",
+                "id": 109245000,
+                "frontDesc": "口碑爆款 无限回购",
+                "type": 0,
+                "subCateList": [],
+                "frontName": "口碑爆款 无限回购"
+            }
+  
+          
+        ]
+    }
+]
