@@ -1,0 +1,68 @@
+.contentContainer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-top: 1rpx solid #eee;
+}
+.contentContainer .leftContainer {
+  width: 20%;
+  height: 500rpx;
+}
+.contentContainer .leftContainer .leftScroll {
+  height: calc(100vh);
+}
+.contentContainer .leftContainer .leftScroll .navItem {
+  position: relative;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 26rpx;
+  text-align: center;
+}
+.contentContainer .leftContainer .leftScroll .active:before {
+  position: absolute;
+  top: 10rpx ;
+  left: 6rpx;
+  content: '';
+  width: 2rpx;
+  height: 60rpx;
+  background: red;
+}
+.contentContainer .rightContainer {
+  border-left: 1rpx solid #eee;
+  padding: 0 10rpx;
+  height: 500rpx;
+  width: 80%;
+  height: 100%;
+  margin-left: 40rpx;
+}
+.contentContainer .rightContainer .rightscroll {
+  height: calc(100vh);
+}
+.contentContainer .rightContainer .rightscroll .shopItem {
+  margin-top: 30rpx;
+}
+.contentContainer .rightContainer .rightscroll .shopItem .rightimg {
+  width: 520rpx;
+  height: 300rpx;
+}
+.contentContainer .rightContainer .rightscroll .shopItem .text {
+  color: #333333;
+  font-size: 26rpx;
+  text-align: end;
+  display: block;
+  margin-right: 30rpx;
+}
+.contentContainer .rightContainer .rightscroll .shopItem .text1 {
+  margin-left: 430rpx;
+  color: white;
+  width: 80rpx;
+  height: 30rpx;
+  background: red;
+  text-align: end;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  font-size: 20rpx;
+  cursor: pointer;
+  padding: 0 5rpx;
+}
+
