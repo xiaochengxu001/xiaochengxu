@@ -1,0 +1,133 @@
+.cartContainer {
+  position: relative;
+  background: #f4f4f4;
+  height: 100%;
+}
+.cartContainer .contentContainer .cartImg {
+  width: 500rpx;
+  height: 400rpx;
+  display: block;
+  margin: 0 auto;
+  padding-top: 100rpx;
+}
+.cartContainer .contentContainer button {
+  width: 480rpx;
+  height: 92rpx;
+  background: #dd1a21;
+  color: #fff;
+  font-size: 32rpx;
+  line-height: 92rpx;
+}
+.cartContainer .contentContainer .addMore {
+  text-align: center;
+  font-size: 26rpx;
+  color: #7f7f7f;
+  line-height: 60rpx;
+}
+.cartContainer .clear {
+  font-size: 24rpx;
+  margin: 5rpx 50rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.cartContainer .cartList {
+  overflow: hidden;
+}
+.cartContainer .cartList .cartItem {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  background: #fff;
+  margin-top: 20rpx;
+  padding: 20rpx;
+}
+.cartContainer .cartList .cartItem .shopItem {
+  float: left;
+  font-size: 28rpx;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-left: 20rpx;
+}
+.cartContainer .cartList .cartItem .shopItem text {
+  line-height: 60rpx;
+}
+.cartContainer .cartList .cartItem .price {
+  color: #bb2c08;
+  margin-left: 200rpx;
+}
+.cartContainer .cartList .cartItem .countCtrl {
+  position: absolute;
+  right: 20rpx;
+  bottom: 30rpx;
+}
+.cartContainer .cartList .cartItem .countCtrl text {
+  display: inline-block;
+  width: 60rpx;
+  height: 50rpx;
+  text-align: center;
+  line-height: 50rpx;
+  border: 1rpx solid #eee;
+}
+.cartContainer .cartList .cartItem .countCtrl text:nth-child(2) {
+  border: none;
+  border-top: 1rpx solid #eee;
+  border-bottom: 1rpx solid #eee;
+}
+.cartContainer .cartFooter {
+  position: fixed;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  bottom: 0rpx;
+  height: 96rpx;
+  line-height: 96rpx;
+  width: 100%;
+  background: #fff;
+  font-size: 30rpx;
+}
+.cartContainer .cartFooter image {
+  width: 100rpx;
+  height: 100rpx;
+  font-size: 40rpx;
+  margin: 0 40rpx;
+  color: #999;
+}
+.cartContainer .cartFooter image.selected {
+  color: #bb2c08;
+}
+.cartContainer .cartFooter .right {
+  height: 96rpx;
+  position: absolute;
+  right: 0;
+}
+.cartContainer .cartFooter .right .totalPrice {
+  display: inline-block;
+  height: 96rpx;
+  line-height: 96rpx;
+}
+.cartContainer .cartFooter .right .preOrder {
+  display: inline-block;
+  background: #dd1a21;
+  width: 225rpx;
+  height: 96rpx;
+  line-height: 96rpx;
+  text-align: center;
+  font-size: 28rpx;
+  color: #fff;
+  margin-left: 30rpx;
+}
+.cartContainer .hint {
+  text-align: center;
+  font-size: 28rpx;
+}
+

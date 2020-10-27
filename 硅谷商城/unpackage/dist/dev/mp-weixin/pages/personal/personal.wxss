@@ -1,0 +1,45 @@
+.header.data-v-3df0de86 {
+  background: #feb70f;
+  padding: 30rpx;
+}
+.header .avatar.data-v-3df0de86 {
+  display: block;
+  margin: 0 auto;
+  width: 160rpx;
+  height: 160rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  border: 2px solid #fee767;
+}
+.header .nickname.data-v-3df0de86 {
+  color: #000;
+  font-size: 22px;
+  line-height: 2.4;
+  text-align: center;
+  letter-spacing: 10rpx;
+}
+.section.data-v-3df0de86 {
+  padding: 0;
+  color: #2e2e2e;
+  font-size: 30rpx;
+}
+.section .line.data-v-3df0de86 {
+  margin-left: 30rpx;
+  padding-right: 30rpx;
+  line-height: 3;
+  border-bottom: 1px solid #efefef;
+}
+.section .line.data-v-3df0de86:last-child {
+  border-bottom: none;
+}
+.section .line.data-v-3df0de86:before {
+  content: '>';
+  float: right;
+  color: #aaa;
+  margin-left: 20rpx;
+}
+.section .line .tl.data-v-3df0de86 {
+  float: right;
+  color: #aaa;
+}
+

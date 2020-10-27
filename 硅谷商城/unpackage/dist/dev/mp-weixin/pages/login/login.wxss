@@ -1,0 +1,39 @@
+.loginContainer.data-v-b237504c {
+  width: 100%;
+  height: 100%;
+  background: #f8f8f8;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.loginContainer .logo.data-v-b237504c {
+  width: 400rpx;
+  height: 533rpx;
+  margin-top: 200rpx;
+}
+.loginContainer .loginMethods.data-v-b237504c {
+  width: 80%;
+  margin: 150rpx auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.loginContainer .loginMethods .login.data-v-b237504c {
+  width: 240rpx;
+  height: 80rpx;
+  background: #41a863;
+  color: #fff;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 40rpx;
+}
+

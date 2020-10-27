@@ -1,0 +1,1 @@
+<view class="loginContainer data-v-b237504c"><image class="logo data-v-b237504c" src="../../static/images/logo/2.jpg" mode></image><view class="loginMethods _div data-v-b237504c"><button class="login wechatLogin data-v-b237504c" open-type="getUserInfo" data-event-opts="{{[['getuserinfo',[['handleGetUserInfo',['$event']]]]]}}" bindgetuserinfo="__e">微信登录</button></view></view>
